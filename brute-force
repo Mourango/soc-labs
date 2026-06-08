@@ -1,1 +1,19 @@
+# Investigação de Brute Force
 
+## Cenário
+
+Usuário recebeu 15 tentativas de login em 5 minutos.
+
+## Evidências coletadas
+
+- IP de origem
+- Geolocalização
+- Histórico do usuário
+
+## Investigação
+
+...
+
+## Conclusão
+
+Falso positivo.
